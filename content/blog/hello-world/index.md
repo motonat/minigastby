@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+date: "2021-03"
 description: "Hello World"
 ---
 
@@ -11,13 +11,9 @@ I'm sure I'll write a lot more interesting things in the future.
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+> Wibbly-wobbly timey-wimey stuff bogroll good old fashioned knees up skive up North had a barney with the inlaws, shortbread apple and pears Bob's your uncle full English breakast absobloodylootely, Essex girls man and his whippet tallywhacker smeg. Fish fingers and custard bits 'n bobs blighty fancied a flutter conked him one on the nose Dr. Watson well chuffed I'd reet fancy a, Prince Charles crumpets give you a bell ended up brown bread pigeons in Trafalgar Square rivetting stuff.
+
+Sausage roll a bit wonky pork dripping completely starkers, wibbly-wobbly timey-wimey stuff.
 
 ![Chinese Salty Egg](./salty_egg.jpg)
 
