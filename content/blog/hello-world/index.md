@@ -1,33 +1,22 @@
 ---
 title: Hello World
 date: "2021-03"
-description: "Hello World"
+description: "Hello Cake"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Cheesecake jelly-o pie marzipan. Croissant candy canes I love gingerbread jelly-o.
 
-I'm sure I'll write a lot more interesting things in the future.
+> Gummies sweet sweet tiramisu apple pie. Cake I love danish I love powder pastry dessert. I love pastry lemon drops gummies cotton candy brownie oat cake. Cupcake marshmallow liquorice tart I love I love wafer. Carrot cake marzipan lollipop apple pie brownie danish.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+Pudding toffee biscuit. Apple pie powder jelly-o. Cheesecake muffin gummi bears sweet roll gummies sweet chupa chups biscuit candy.
 
-> Wibbly-wobbly timey-wimey stuff bogroll good old fashioned knees up skive up North had a barney with the inlaws, shortbread apple and pears Bob's your uncle full English breakast absobloodylootely, Essex girls man and his whippet tallywhacker smeg. Fish fingers and custard bits 'n bobs blighty fancied a flutter conked him one on the nose Dr. Watson well chuffed I'd reet fancy a, Prince Charles crumpets give you a bell ended up brown bread pigeons in Trafalgar Square rivetting stuff.
+![Carrot cake](./carrotcake.jpeg)
 
-Sausage roll a bit wonky pork dripping completely starkers, wibbly-wobbly timey-wimey stuff.
-
-![Chinese Salty Egg](./salty_egg.jpg)
-
-You can also write code blocks here!
-
-```js
-const saltyDuckEgg = "chinese preserved food product"
-```
-
-| Number | Title                                    | Year |
-| :----- | :--------------------------------------- | ---: |
-| 1      | Harry Potter and the Philosopher’s Stone | 2001 |
-| 2      | Harry Potter and the Chamber of Secrets  | 2002 |
-| 3      | Harry Potter and the Prisoner of Azkaban | 2004 |
+| Number | Title       | Year |
+| :----- | :---------- | ---: |
+| 1      | Oat cake    | 2001 |
+| 2      | Carrot cake | 2002 |
+| 3      | Cheesecake  | 2004 |
 
 [View raw (TEST.md)](https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md)
 
